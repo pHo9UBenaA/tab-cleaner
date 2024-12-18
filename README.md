@@ -47,3 +47,7 @@ docker compose exec bub bun i --frozen-lockfile
 ```bash
 docker compose exec bun bun run build
 ```
+
+### License
+
+This project is licensed under the MIT License. See the [LICENSE](https://github.com/pHo9UBenaA/tab-cleaner/blob/master/LICENSE) file for details.
