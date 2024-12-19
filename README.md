@@ -1,12 +1,13 @@
-# Tab Cleaner Extension
+# Tab Cleaner
 
-A Chrome extension that helps you efficiently manage your browser tabs by removing tabs belonging to specified domains.
+A Chrome extension to close tabs from specified or unspecified websites.
 
 ## Features
 
 - **Domain Registration**: Register the domain of the current tab using the shortcut "Control (Command) + Shift + E".
 - **Bulk Remove Tabs**: Remove all tabs belonging to registered domains using the shortcut "Control (Command) + E".
 - **Navigate to Removed Pages**: Return to previously removed pages.
+- **Clear Non-Target Domains?**: When enabled, it clears tabs that do not include "Target Domains" in the URL. The internal logic is a partial match. (This is a pilot feature.)
 
 ## Installation
 
