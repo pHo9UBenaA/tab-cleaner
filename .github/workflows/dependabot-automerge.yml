@@ -1,5 +1,0 @@
-on: pull_request
-
-jobs:
-  call-dependabot:
-    uses: pHo9UBenaA/gh-action-templates/.github/workflows/dependabot-auto-merge.yml@master
